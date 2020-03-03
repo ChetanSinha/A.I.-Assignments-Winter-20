@@ -1,3 +1,4 @@
+# 8 Queens Problem implementation using A Star Algorithm #
 ## State space: ##
 *  Here state space is a 8x8 matrix where the position of a queen is represented by 1
 ## State transition operator: ##
