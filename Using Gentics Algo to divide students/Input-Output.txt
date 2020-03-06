@@ -1,0 +1,16 @@
+INPUT:-
+1)Take input on no. of student in variable n.
+
+OUTPUT:
+Enter Value of n: 7
+
+Group 1 : 64 91 2                                                                                                                    
+Group 2 : 70 97                                                                                                                            
+Group 3 : 78 91
+
+
+Enter Value of n: 10
+
+Group 1 : 60 48 97                                                                                                                            
+Group 2 : 69 84 35                                                                                                                                   
+Group 3 : 23 9 39 40 
