@@ -1,0 +1,134 @@
+INPUT:-
+
+1) Choose from the Menu:
+Menu:
+(1) Human1 vs Human2
+(2) AI vs Human
+(3) AI-1 vs AI-2
+(4) Rules
+(5) Exit
+
+2) Choose no. of stics: 
+Number number of sticks?
+-> 14
+-> 21
+-> 53
+
+3) Play Again? :D
+
+OUTPUT:
+
+Welcome to PICK-THE-STICK :D
+Menu:
+(1) Human1 vs Human2
+(2) AI vs Human
+(3) AI-1 vs AI-2
+(4) Rules
+(5) Exit
+Enter your choice: 3
+Number number of sticks?
+-> 14
+-> 21
+-> 53
+21
+Get ready for the Toss...
+AI-2, won the toss and will go first
+
+AI2's turn
+AI-2 takes 1 sticks, 20 sticks remaining
+
+AI1's turn
+AI-1 takes 2 sticks, 18 sticks remaining
+
+AI2's turn
+AI-2 takes 1 sticks, 17 sticks remaining
+
+AI1's turn
+AI-1 takes 1 sticks, 16 sticks remaining
+
+AI2's turn
+AI-2 takes 2 sticks, 14 sticks remaining
+
+AI1's turn
+AI-1 takes 1 sticks, 13 sticks remaining
+
+AI2's turn
+AI-2 takes 1 sticks, 12 sticks remaining
+
+AI1's turn
+AI-1 takes 2 sticks, 10 sticks remaining
+
+AI2's turn
+AI-2 takes 1 sticks, 9 sticks remaining
+
+AI1's turn
+AI-1 takes 1 sticks, 8 sticks remaining
+
+AI2's turn
+AI-2 takes 2 sticks, 6 sticks remaining
+
+AI1's turn
+AI-1 takes 1 sticks, 5 sticks remaining
+
+AI2's turn
+AI-2 takes 1 sticks, 4 sticks remaining
+
+AI1's turn
+AI-1 takes 3 sticks, 1 sticks remaining
+
+
+
+Congratulations!!, AI1: You Won
+AI-2 has to take the final stick and loses, Better luck next time!!
+
+
+Play Again?
+Yes/No
+Yes
+Menu:
+(1) Human1 vs Human2
+(2) AI vs Human
+(3) AI-1 vs AI-2
+(4) Rules
+(5) Exit
+Enter your choice: 2
+Number number of sticks?
+-> 14
+-> 21
+-> 53
+14
+Get ready for the Toss...
+AI, won the toss and will go first
+
+AI's turn
+AI takes 1 sticks, 13 sticks remaining
+
+Human's turn
+Pick-the-Stick: 2
+Human takes 2 sticks, 11 sticks remaining
+
+AI's turn
+AI takes 3 sticks, 8 sticks remaining
+
+Human's turn
+Pick-the-Stick: 1
+Human takes 1 sticks, 7 sticks remaining
+
+AI's turn
+AI takes 3 sticks, 4 sticks remaining
+
+Human's turn
+Pick-the-Stick: 1
+Human takes 1 sticks, 3 sticks remaining
+
+AI's turn
+AI takes 2 sticks, 1 sticks remaining
+
+
+
+Congratulations!!, AI: You Won
+Human has to take the final stick and loses, Better luck next time!!
+
+
+Play Again?
+Yes/No
